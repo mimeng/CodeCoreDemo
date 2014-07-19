@@ -1,0 +1,31 @@
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+
+.table-row {
+	color: #fff;
+	background-color: #888}
+
+
+	#special {color: #66f;}
+	#welcome {
+		background-image: url(../images/hi.gif);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	#logo {color:#888;}
+.jumbotron{
+text-align: center;
+margin-top: 10%;
+background-color: rgba(255, 255, 255, 0);
+}	
+footer {text-align: center;}
+	ul {list-style-type: none;}
+	ul li {display: inline;}
+html,body{height: 100%;}
+.full-height {
+	height: 100%}
+.nav a{
+	color:#888;
+	font-size: 1em;
+}
+.service-box {text-align: center;}
